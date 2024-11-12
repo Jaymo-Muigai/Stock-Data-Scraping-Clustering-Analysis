@@ -1,4 +1,4 @@
-#Stock Data Scraping & Clustering Analysis
+# Stock Data Scraping & Clustering Analysis
 
 ## Objective
 The primary goal of this project is to collect and analyze Kenyan stock market data over a 10-year period. We aim to group stocks based on their daily returns and volatility, visualizing clusters to highlight unique risk-return profiles for informed investment decision-making.
